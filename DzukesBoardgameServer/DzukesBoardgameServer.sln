@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzukesBoardgameServerWeb", "DzukesBoardgameServerWeb\DzukesBoardgameServerWeb.csproj", "{D182E6DD-C9AF-4A8B-B286-3D38AF805C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D182E6DD-C9AF-4A8B-B286-3D38AF805C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D182E6DD-C9AF-4A8B-B286-3D38AF805C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D182E6DD-C9AF-4A8B-B286-3D38AF805C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D182E6DD-C9AF-4A8B-B286-3D38AF805C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E7CC83-678D-4498-8732-F5233A0BCA2C}
+	EndGlobalSection
+EndGlobal
